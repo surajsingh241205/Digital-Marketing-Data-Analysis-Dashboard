@@ -245,9 +245,9 @@ To protect business confidentiality:
 
 Data Analyst | Power BI Developer | Python | SQL
 
-LinkedIn: [*(Add Link)*](https://www.linkedin.com/in/suraj-singh-data-science/)
+LinkedIn: https://www.linkedin.com/in/suraj-singh-data-science/
 
-Portfolio: [*(Add Link)*](https://suraj-portfolio-web-page.vercel.app/)
+Portfolio: https://suraj-portfolio-web-page.vercel.app/
 
 ---
 
